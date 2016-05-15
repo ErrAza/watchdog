@@ -8,6 +8,7 @@ import android.support.v4.app.ActivityCompat;
 import android.os.Bundle;
 import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
+import android.view.View;
 import android.widget.Toast;
 
 import com.google.android.gms.common.ConnectionResult;
@@ -23,6 +24,9 @@ import com.google.android.gms.maps.model.BitmapDescriptorFactory;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.Marker;
 import com.google.android.gms.maps.model.MarkerOptions;
+
+import java.text.SimpleDateFormat;
+import java.util.Date;
 
 public class MapsActivity extends AppCompatActivity
         implements OnMapReadyCallback,
@@ -41,7 +45,7 @@ public class MapsActivity extends AppCompatActivity
     protected void onCreate(Bundle savedInstanceState)
     {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_maps);
+        setContentView(R.layout.activity_main);
 
         if (android.os.Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
             checkLocationPermission();
@@ -98,6 +102,17 @@ public class MapsActivity extends AppCompatActivity
                 .addApi(LocationServices.API)
                 .build();
         mGoogleApiClient.connect();
+    }
+
+    public void SubmitPinOnLocation(LatLng pos)
+    {
+        double lat = pos.latitude;
+        double lng = pos.longitude;
+
+        String sdf = new SimpleDateFormat("yyyy-MM-dd- HH:mm:ss").format(new Date());
+
+        Toast.makeText(this, "Submitting Pin...", Toast.LENGTH_SHORT).show();
+        new PinSubmitActivity(this).execute(String.valueOf(lat), String.valueOf(lng), sdf);
     }
 
     @Override

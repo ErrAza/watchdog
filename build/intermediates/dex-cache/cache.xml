@@ -1,2 +1,250 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-8.4.0_f61eaa56805cc260dd9593f5b209c7a69a714ccf/classes.dex" />
+    </item>
+    <item
+        jar="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_1a36ea794856006141ed223c7e304582c6c40355/classes.dex" />
+    </item>
+    <item
+        jar="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-8.4.0_c9d2c7a65ff1450d856e2a359d40a4ecb468add0/classes.dex" />
+    </item>
+    <item
+        jar="/home/sean/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_62d2b5b49f62073ceb67de5db8d0ede42601c0d4/classes.dex" />
+    </item>
+    <item
+        jar="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_a472a576b1b58ef8f02bb9eb3a735b9a3ebe443e/classes.dex" />
+    </item>
+    <item
+        jar="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-8.4.0_19e689638fcc222b7cdd240c7a0ca005d4110607/classes.dex" />
+    </item>
+    <item
+        jar="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-8.4.0_2be100ac271b9d984f4486c68ef58817663c0685/classes.dex" />
+    </item>
+    <item
+        jar="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-8.4.0_e63c87e920836e7788f4e590733f1978947fd5f6/classes.dex" />
+    </item>
+    <item
+        jar="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_2252585c7af895122e6f57567d26e2f8b5653f4c/classes.dex" />
+    </item>
+    <item
+        jar="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-8.4.0_0295b1d22249510e978c29e0a1da853f9c31fc82/classes.dex" />
+    </item>
+    <item
+        jar="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_4d6cb50c89ff9904ae148a7b6dc5a8301cbad143/classes.dex" />
+    </item>
+    <item
+        jar="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-8.4.0_08bce48e10037eafa58240c3389f8d446ec23bf0/classes.dex" />
+    </item>
+    <item
+        jar="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_64bb1685e5f519813873c5ba94edd94a6001cd07/classes.dex" />
+    </item>
+    <item
+        jar="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_e1e9600e23941fc42a72b2089d9b334bdff2f474/classes.dex" />
+    </item>
+    <item
+        jar="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-8.4.0_482ade391bf0223aa85cc4c1b82e2dafab4781b8/classes.dex" />
+    </item>
+    <item
+        jar="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-8.4.0_b60f6eca56ea5b1e88742583e70682af8b0a64f5/classes.dex" />
+    </item>
+    <item
+        jar="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-8.4.0_ae7a26c893eb9dc2ed16172735d2f33cc156d73e/classes.dex" />
+    </item>
+    <item
+        jar="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-8.4.0_8a6f5d699115479a7753f5cf7ddfd77a2ba79689/classes.dex" />
+    </item>
+    <item
+        jar="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_34903090a7c7f54ada993a8cc342620920acda12/classes.dex" />
+    </item>
+    <item
+        jar="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_78b10a461f7aa16d5d0ae5a147aa3f9205005168/classes.dex" />
+    </item>
+    <item
+        jar="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-8.4.0_122673f9581b12b1e66b39a32931c9ffe6aae3da/classes.dex" />
+    </item>
+    <item
+        jar="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_1871fb64518fc86e7b9b3ff0a88cf55c3aba43fc/classes.dex" />
+    </item>
+    <item
+        jar="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.4.0_b80b8e80da6c8bbba208cf9f02993dcbfd165867/classes.dex" />
+    </item>
+    <item
+        jar="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-8.4.0_9809183dcc6f7153bbd14d8034a9964f7c38e7c2/classes.dex" />
+    </item>
+    <item
+        jar="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-8.4.0_dd83e11595e9d74f205885f75a9c08b76fb6b8fa/classes.dex" />
+    </item>
+    <item
+        jar="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-8.4.0_49098b1dc597cb664072e5a9c27659f1012c8469/classes.dex" />
+    </item>
+    <item
+        jar="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-8.4.0_138f2ced5afd87440265a8262a75379947f0aca5/classes.dex" />
+    </item>
+    <item
+        jar="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_c9c615b3ff3b41dd0de66f38b57ec7e6556dd677/classes.dex" />
+    </item>
+    <item
+        jar="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-8.4.0_b624c5554fbe628812ebde239a004d6cfb60c44f/classes.dex" />
+    </item>
+    <item
+        jar="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-8.4.0_4a49b23d35dbf1fdf2a9e0dca0dbb8dc5e58e84d/classes.dex" />
+    </item>
+    <item
+        jar="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="12cce9ae5d3dad86598d2f2a894bff07efbebde3">
+        <dex dex="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_667f19e543f127b81445ae167db89dff7d7d6d38/classes.dex" />
+    </item>
+    <item
+        jar="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e739c03f9df1d4a53181083faf9634f80fedc839">
+        <dex dex="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_545b4443e4436aa57f679046d33ff83a0bf96d9b/classes.dex" />
+    </item>
+    <item
+        jar="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-8.4.0_2bbd61238ebcd92c84e7e94a9cdf2e539e6fc0e4/classes.dex" />
+    </item>
+    <item
+        jar="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_1f429a423e4c22499f68a032c335fcfaf13cf156/classes.dex" />
+    </item>
+    <item
+        jar="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/home/sean/AndroidStudioProjects/WatchDog/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-measurement-8.4.0_7a356fd8ede40a35b69c28c0c7e783964a740e56/classes.dex" />
+    </item>
+
+</items>

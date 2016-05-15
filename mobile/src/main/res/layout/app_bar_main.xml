@@ -29,13 +29,10 @@
         android:layout_height="wrap_content"
         android:layout_gravity="bottom|end"
         android:layout_margin="@dimen/fab_margin"
-        android:src="@android:drawable/ic_menu_edit" />
-    <android.support.design.widget.FloatingActionButton
-        android:id="@+id/view_map"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_margin="16dp"
-        android:layout_gravity="bottom|left"
-        android:src="@android:drawable/ic_dialog_map"/>
+        android:src="@android:drawable/ic_menu_edit"
+        android:onClick="SubmitPinOnLocation"
+        android:clickable="true"
+        app:elevation="@dimen/design_fab_size_normal"
+        android:focusable="true" />
 
 </android.support.design.widget.CoordinatorLayout>
